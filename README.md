@@ -2,9 +2,16 @@
 
 Parse your ChatGPT data export into a browsable, dark-themed web viewer with stitched audio, inline images, and persistent annotations.
 
+
+
 ---
 
-## Output Structure
+<img width="1172" height="1401" alt="ViewerScreenshot" src="https://github.com/user-attachments/assets/c205ea6f-6942-4566-a70b-e78fb3aa2dd5" />
+
+
+---
+
+## File Output Structure
 
 ```
 your-output-dir/
